@@ -33,3 +33,10 @@ CalendarBot - бот, выполняющий фунционал календар
 если нет, то надо ее добавить<br />
 после чего запустить main<br />
 для регистрации нового пользователя обязательно запускать /start, чтобы он был добавлен в collection для юзеров
+так же для использования библиотек:
+pip install aiogram
+pip install datetime
+pip install asyncio
+pip install aioschedule
+pip install threading
+pip install pymongo
