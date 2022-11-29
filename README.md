@@ -32,11 +32,12 @@ CalendarBot - бот, выполняющий фунционал календар
 что ссылка для локального подключения mongodb://localhost:27017<br />
 если нет, то надо ее добавить<br />
 после чего запустить main<br />
-для регистрации нового пользователя обязательно запускать /start, чтобы он был добавлен в collection для юзеров
-так же для использования библиотек:
-pip install aiogram
-pip install datetime
-pip install asyncio
-pip install aioschedule
-pip install threading
-pip install pymongo
+для регистрации нового пользователя обязательно запускать /start, чтобы он был добавлен в collection для юзеров<br />
+
+для использования библиотек:<br />
+pip install aiogram<br />
+pip install datetime<br />
+pip install asyncio<br />
+pip install aioschedule<br />
+pip install threading<br />
+pip install pymongo<br />
